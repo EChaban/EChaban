@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Eugene Chaban
-- 🌱 I’m currently learning C#
+- 🌱 I’m learning C#
 - 📫 You can reach me here https://echaban.github.io/
